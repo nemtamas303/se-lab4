@@ -1,0 +1,4 @@
+# Ha Primary volt használva és Secondary nem üres (1) Primary sem üres (1)
+GT4500,1,0.0,1,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
